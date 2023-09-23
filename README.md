@@ -1,2 +1,2 @@
-# DDI_2023
-AG homework
+# DDI_2023_private
+For future homeworks I guess
